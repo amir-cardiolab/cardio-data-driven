@@ -19,7 +19,7 @@ flow with uncertain Womersley number and optimal sensor placement) \
 flow with uncertain viscosity) \
 7-Low-rank: Low-rank data recovery from random spatiotemporal measurements (matrix completion) \
 8-SINDy-ex1: Sparse identification of nonlinear dynamics (SINDy) (example 1: Discover a blood coagulation and thrombosis model) \
-8-SINDy-ex2: Sparse identification of nonlinear dynamics (SINDy) (example 2: Discover analytical velocity in transient vortical flows) \
+8-SINDy-ex2: Sparse identification of nonlinear dynamics (SINDy) (example 2: Discover analytical velocity in transient vortical flows) 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
