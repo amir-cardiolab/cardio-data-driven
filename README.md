@@ -41,5 +41,6 @@ Spot-master \
 Data:
 
 The data needed by the codes are placed under the /data_rsif_paper folder. \
-The larger datasets are provided under in this Google Drive link and should be placed under the same /data_rsif_paper folder. \ 
+The larger datasets are provided under in this Google Drive link and should be placed under the same /data_rsif_paper folder. 
+
 https://drive.google.com/drive/folders/1G5ciEmUSO8sjbqP5DchqTxQU0OXxfRKn?usp=sharing
