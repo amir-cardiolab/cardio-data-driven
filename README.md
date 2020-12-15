@@ -1,11 +1,11 @@
 # cardio-data-driven
-Data-driven cardiovascular flow modeling: examples and opportunities
+Data-driven cardiovascular flow modeling: examples and opportunities \
 
-Codes and data used in the examples presented in the paper:
-Data-driven cardiovascular flow modeling: examples and opportunities 
-Amirhossein Arzani, Scott T. M. Dawson
-https://arxiv.org/abs/2010.00131
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Codes and data used in the examples presented in the paper: \
+Data-driven cardiovascular flow modeling: examples and opportunities \
+Amirhossein Arzani, Scott T. M. Dawson \
+https://arxiv.org/abs/2010.00131   \
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% \
 Codes:
 1-PCA: Principal component analysis
 2-rPCA: Robust Principal component analysis
