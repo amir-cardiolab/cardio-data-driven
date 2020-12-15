@@ -7,7 +7,7 @@ Amirhossein Arzani, Scott T. M. Dawson \
 https://arxiv.org/abs/2010.00131   \
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
-Codes: \
+Matlab codes: \
 1-PCA: Principal component analysis \
 2-rPCA: Robust Principal component analysis \
 3-CS: Compressed sensing \
@@ -25,7 +25,7 @@ flow with uncertain viscosity) \
 
 Installation:
 
-Some of the codes require the following packages to be installed in Matlab before running the code: 
+Some of the Matlab codes require the following packages to be installed in Matlab before running the code: 
 
 CVX: Matlab Software for Disciplined Convex Programming \
 http://cvxr.com/cvx/
